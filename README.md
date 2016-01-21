@@ -17,7 +17,7 @@ This will produce the following output:
 
 ```
 Usage: python assessment.py <integer_value>
-	 <integer_value>     REQUIRED : Provide an integer value.
+	 <integer_value>: Provide an integer value.
 ```
 
 To execute the program, run:
